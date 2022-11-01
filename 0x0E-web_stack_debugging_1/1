@@ -1,3 +1,2 @@
-sed: couldn't open temporary file /etc/nginx/sites-enabled/sed4CeaWK: Permission denied
-Failed to start nginx.service: Access denied
-See system logs and 'systemctl status nginx.service' for details.
+Job for nginx.service failed because the control process exited with error code.
+See "systemctl status nginx.service" and "journalctl -xe" for details.
